@@ -1,1 +1,0 @@
-🐧 Tor2DNS will be available in this repository at 2:00 AM (UTC), featuring the following: full source code, release version v1.0 for Debian-based systems (including Ubuntu, Kali Linux, Debian, etc.), and all necessary dependencies for Debian Linux environments. 🐧
