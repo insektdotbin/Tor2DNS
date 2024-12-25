@@ -2,7 +2,7 @@
 
 ![Tor2DNS-BGRM](https://github.com/user-attachments/assets/44c448fa-627d-424e-8c28-e006fb6de787)
 
-**Tor2DNS** is a simple command-line script that transforms your Tor proxy into a DNS resolver, utilizing Cloudflare's DNS service. This tool is designed to enhance your online privacy by routing DNS queries through the Tor network. 🌐
+**🌐 Tor2DNS** is a simple command-line script that transforms your Tor proxy into a DNS resolver, utilizing Cloudflare's DNS service. This tool is designed to enhance your online privacy by routing DNS queries through the Tor network. 
 
 ## ⚙️ Version 
 
