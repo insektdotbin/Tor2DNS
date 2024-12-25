@@ -1,2 +1,51 @@
-# Tor2DNS
-☁️ Tor2DNS is a straightforward command-line script that transforms your Tor proxy into a DNS resolver, utilizing Cloudflare’s DNS service.
+# ☁️ Tor2DNS 
+
+![Tor2DNS-BGRM](https://github.com/user-attachments/assets/44c448fa-627d-424e-8c28-e006fb6de787)
+
+**Tor2DNS** is a simple command-line script that transforms your Tor proxy into a DNS resolver, utilizing Cloudflare's DNS service. This tool is designed to enhance your online privacy by routing DNS queries through the Tor network. 🌐
+
+## ⚙️ Version 
+
+**Tor2DNS Version:** 1.0
+
+## ⭐ Features 
+
+- Convert your Tor proxy into a DNS resolver.
+- Utilizes Cloudflare's DNS service for enhanced privacy.
+- User-friendly command-line interface with colorful output.
+- Supports both Windows and Linux environments.
+
+## 📦 Installation 
+
+To get started with Tor2DNS, you'll need to clone the repository and install the required dependencies. You can do this using the following commands:
+
+```bash
+# Clone the repository
+git clone https://github.com/insektdotbin/Tor2DNS.git
+
+# Navigate into the project directory
+cd Tor2DNS
+
+# Install the required packages
+pip install -r requirements.txt
+```
+
+## 💻 Usage 
+
+To run the script, use the following command:
+
+```bash
+python3 main.py
+```
+
+## 🧑‍💻 Author 
+
+This project is maintained by [@insektdotbin](https://github.com/insektdotbin) 
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+### ⚠️ Notes:
+- Make sure to replace `https://github.com/insektdotbin/Tor2DNS.git` with the actual URL of your GitHub repository.
+- Ensure that the `requirements.txt` file is present in your repository and contains all the necessary dependencies.
