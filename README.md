@@ -1,4 +1,4 @@
-Language: [FA]((https://github.com/insektdotbin/Tor2DNS/README-FA.md))/[EN](https://github.com/insektdotbin/Tor2DNS/README.md)
+Language: [FA](https://github.com/insektdotbin/Tor2DNS/README-FA.md)/[EN](https://github.com/insektdotbin/Tor2DNS/README.md)
 
 # ☁️ Tor2DNS 
 
