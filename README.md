@@ -1,3 +1,5 @@
+Language: [FA]((https://github.com/insektdotbin/Tor2DNS/README-FA.md))/[EN](https://github.com/insektdotbin/Tor2DNS/README.md)
+
 # ☁️ Tor2DNS 
 
 ![Tor2DNS-BGRM](https://github.com/user-attachments/assets/44c448fa-627d-424e-8c28-e006fb6de787)
