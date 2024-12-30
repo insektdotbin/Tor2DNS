@@ -48,8 +48,8 @@ This project is maintained by [@insektdotbin](https://github.com/insektdotbin)
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-### ⚠️ Notes and Cautions:
-- Make sure to replace `https://github.com/insektdotbin/Tor2DNS.git` with the actual URL of your GitHub repository.
+## ⚠️ Notes and Cautions:
+
 - Ensure that the `requirements.txt` file is present in your repository and contains all the necessary dependencies.
 - **ALERT: The script may require root or administrator permissions to execute tasks and can pose risks on non-Debian-based operating systems. Misconfigurations or operating system conflicts can lead to system or network failures. The developer will not be held responsible for any resulting damages.**
 
