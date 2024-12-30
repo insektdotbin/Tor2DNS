@@ -51,6 +51,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ### ⚠️ Notes:
 - Make sure to replace `https://github.com/insektdotbin/Tor2DNS.git` with the actual URL of your GitHub repository.
 - Ensure that the `requirements.txt` file is present in your repository and contains all the necessary dependencies.
-- **ALERT: The script may require root or administrator permissions to execute tasks and can pose risks on non-Debian-based operating systems. Misconfigurations or operating system conflicts can lead to system or network failures. The developer will not be held responsible for any resulting damages. **
+- **ALERT: The script may require root or administrator permissions to execute tasks and can pose risks on non-Debian-based operating systems. Misconfigurations or operating system conflicts can lead to system or network failures. The developer will not be held responsible for any resulting damages.**
 
 - **The script is compatible only with Python versions 3.9.x to 3.11.x**
