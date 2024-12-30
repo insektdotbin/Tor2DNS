@@ -6,6 +6,8 @@ Language: [FA](https://github.com/insektdotbin/Tor2DNS/blob/main/README-FA.md)/[
 
 **🌐 Tor2DNS** Tor2DNS یک اسکریپت پایتونی می باشد که پروکسی لوکال‌هاست تور را به یک DNS لوکال، تحت آی‌پی 1.1.1.1 تبدیل می کند تا بتوان از آن در هر پلتفرمی استفاده نمود.
 
+Tor2DNS دستورات را بر اساس [DNS-Over-Tor](https://developers.cloudflare.com/1.1.1.1/other-ways-to-use-1.1.1.1/dns-over-tor/) کلودفلر اجرا می‌کند.
+
 ## ⚙️ ورژن
 
 **ورژن Tor2DNS:** 1.0
